@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### 30NitesofCode
+#30NitesofCode
+  [Check out my progress!](https://www.codedex.io/@jade0x/30-nites-of-code)  
+  ![@jade0x #30NitesOfCode](https://www.codedex.io/api/petStatus?user=jade0x)
+
 <!--
 **jade0x/jade0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
